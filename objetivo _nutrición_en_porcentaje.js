@@ -7,7 +7,6 @@ function nutricion(calorias,porcentajePro,porcentajeGras,porcentajeCar){
      grasas: 9
   }
   
-  
   let recibo = {
     calorias:calorias,
     porcentajePro:porcentajePro,

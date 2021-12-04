@@ -24,4 +24,4 @@ let resultado = {
 }
 
 /*-----------------------------*/
-deporcionAunGramo('Pecguga de pollo',29.55,0,7,100,195)
+deporcionAunGramo('Pecguga de pollo',29.55,0,7,100,195);
