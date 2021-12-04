@@ -1,4 +1,4 @@
-// Objetivo  nutrición en porcentaje
+// Recibe porcentaje y devuelve cantidad en gramos
 function nutricion(calorias,porcentajePro,porcentajeGras,porcentajeCar){
   
   let macros = {
